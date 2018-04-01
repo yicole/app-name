@@ -9,7 +9,15 @@
 }
 .box_1 {
 }
+.box_2 {
+}
+.box_3 {
+}
 .image {
+}
+.placeholder {
+}
+.button {
 }
 .primary_button {
   color:#FFFFFF;
@@ -57,4 +65,6 @@
 }
 ._文本段落 {
   text-align:left;
+}
+._流程形状 {
 }
